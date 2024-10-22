@@ -1,2 +1,2 @@
 Index
-1. [RAG](RAG/RAG_Using_Gemini.ipynb)
+1. [RAG](RAG/RAG_using_Gemini.ipynb)
